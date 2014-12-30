@@ -1,0 +1,16 @@
+html { box-sizing: border-box;}
+*, *:before, *:after { box-sizing: inherit; }
+body { background: #f1ede2; padding: 0px; margin: 0px;}
+.section li { font-size: 22px; }
+.section { margin-top: 30px; }
+.section .content { font-family: Book Antiqua; margin: 0px 67px;}
+.section .content p { font-size: 22px; }
+.section.mapSection { margin-bottom: 50px; }
+.section.mapSection .content { text-align: center; }
+.section.mapSection iframe { margin: 0 auto; }
+.section.rsvpSection .content { text-align: center; }
+.topIcons { text-align: center; }
+.banner { overflow: hidden; position: relative; height: 97px; font-family: 'Satisfy', cursive; }
+.bannerLeft { position: absolute; left: 0px; top: 0px; background: url(bannerLeft.jpg); width: 47px; height: 97px; }
+.bannerContent { background: #b2d5ce; height: 51px; padding: 10px 47px; text-align: center; font-size: 25px;}
+.bannerRight { position: absolute; right: 0px; top: 0px; background: url(bannerRight.jpg); width: 47px; height: 97px; }
