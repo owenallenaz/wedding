@@ -2,7 +2,7 @@ html { box-sizing: border-box;}
 *, *:before, *:after { box-sizing: inherit; }
 body { background: #f1ede2; padding: 0px; margin: 0px;}
 .headerCollage { width: 100%; }
-.section li { font-size: 22px; }
+.section li { font-size: 22px; margin-bottom: 20px; line-height: 1.6rem;}
 .section { margin-top: 30px; }
 .section .content { font-family: Book Antiqua; margin: 0px 67px;}
 .section .content p { font-size: 22px; }
